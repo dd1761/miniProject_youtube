@@ -34,17 +34,158 @@
 				<video controls autoplay>
 					<source src="/miniProject_youtube/images/video.mp4" type="video/mp4">
 				</video>
+				<div class="tags"> <!-- 영상 및에 태그들 -->
+					<a href="">#한국</a> <a href="">#미국</a> 
+					<a href="">#펄럭</a> <a href="">#태극기</a>
+				</div>
+				<h3>비트캠프의 NC3기 Baboob팀</h3>
+				
+				<div class="play-video-info">
+					<p>1225만 &bull; 2일전</p>
+					<div>
+						<a href=""><img src="/miniProject_youtube/images/like.png">1000</a>
+						<a href=""><img src="/miniProject_youtube/images/dislike.png">2</a>
+						<a href=""><img src="/miniProject_youtube/images/share.png">공유하기</a>
+						<a href=""><img src="/miniProject_youtube/images/save.png">Save</a>
+					</div>
+					
+				</div>
+				<hr>
+				
+				<div class="plublisher">
+					<img src="/miniProject_youtube/images/Jack.png">
+					<div>
+						<p>싱생송성근</p>
+						<span>구독자 50만명</span>
+					</div>
+					<button type="button">구독</button>
+				</div>
+				
+				<div class="video-description">
+					<p>채널 설명란입니다.</p>
+					<p>이곳은 뭘까요?</p>
+					<hr>
+					<h4>댓글 수 넣는 곳</h4>
+					
+					<div class="add-comment">
+						<img src="/miniProject_youtube/images/kwonyongjun.png">
+						<input type="text" placeholder="댓글 추가...">
+					</div>
+					
+					<div class="old-comment">
+						<img src="/miniProject_youtube/images/Jack.png">
+						<div>
+							<h3>송성근 <span>2일전</span></h3>
+							<p>내이름은 송성근 비트캠프 학생이죠!</p>
+							
+							<div class="acomment-action">
+								<img src="/miniProject_youtube/images/like.png">
+								<span>244 좋아요 수</span>
+								<img alt="싫어요" src="/miniProject_youtube/images/dislike.png">
+								<span>싫어요 수</span>
+								<span>댓글</span>
+								<a href="">모든 댓글</a>
+							</div>
+							
+						</div>
+					</div>
+					<div class="old-comment">
+						<img src="/miniProject_youtube/images/Jack.png">
+						<div>
+							<h3>송성근 <span>2일전</span></h3>
+							<p>내이름은 송성근 비트캠프 학생이죠!</p>
+							
+							<div class="acomment-action">
+								<img src="/miniProject_youtube/images/like.png">
+								<span>244 좋아요 수</span>
+								<img alt="싫어요" src="/miniProject_youtube/images/dislike.png">
+								<span>싫어요 수</span>
+								<span>댓글</span>
+								<a href="">모든 댓글</a>
+							</div>
+							
+						</div>
+					</div>
+					
+				</div>
+				
+				
 			</div>
 			<div class="right-sidebar">
+			
 				<div class="side-video-list">
-					<a href=""></a>
-					<img alt="사이드 영상1" src="/miniProject_youtube/images/thumbnail1.png">
+				<a href="" class="small-thumbnail"><img src="/miniProject_youtube/images/thumbnail1.png"></a>
 					<div class="video-info">
-						<a href="">다른 영상 보고갈래?</a>
-						<p>영상 제목넣는곳</p>
-						<p>영상 조회수넣는곳</p>
+						<a href="">미국이 놀라고 중국이 부러워하며 일본이 질투하는 한국의 그것!</a>
+						<p>Baboob</p>
+						<p>15만</p>
 					</div>
 				</div>
+				<div class="side-video-list">
+				<a href="" class="small-thumbnail"><img src="/miniProject_youtube/images/thumbnail2.png"></a>
+					<div class="video-info">
+						<a href="">미국이 놀라고 중국이 부러워하며 일본이 질투하는 한국의 그것!</a>
+						<p>Baboob</p>
+						<p>15만</p>
+					</div>
+				</div>
+				<div class="side-video-list">
+				<a href="" class="small-thumbnail"><img src="/miniProject_youtube/images/thumbnail3.png"></a>
+					<div class="video-info">
+						<a href="">미국이 놀라고 중국이 부러워하며 일본이 질투하는 한국의 그것!</a>
+						<p>Baboob</p>
+						<p>15만</p>
+					</div>
+				</div>
+				<div class="side-video-list">
+				<a href="" class="small-thumbnail"><img src="/miniProject_youtube/images/thumbnail4.png"></a>
+					<div class="video-info">
+						<a href="">미국이 놀라고 중국이 부러워하며 일본이 질투하는 한국의 그것!</a>
+						<p>Baboob</p>
+						<p>15만</p>
+					</div>
+				</div>
+				<div class="side-video-list">
+				<a href="" class="small-thumbnail"><img src="/miniProject_youtube/images/thumbnail5.png"></a>
+					<div class="video-info">
+						<a href="">미국이 놀라고 중국이 부러워하며 일본이 질투하는 한국의 그것!</a>
+						<p>Baboob</p>
+						<p>15만</p>
+					</div>
+				</div>
+				<div class="side-video-list">
+				<a href="" class="small-thumbnail"><img src="/miniProject_youtube/images/thumbnail6.png"></a>
+					<div class="video-info">
+						<a href="">미국이 놀라고 중국이 부러워하며 일본이 질투하는 한국의 그것!</a>
+						<p>Baboob</p>
+						<p>15만</p>
+					</div>
+				</div>
+				<div class="side-video-list">
+				<a href="" class="small-thumbnail"><img src="/miniProject_youtube/images/thumbnail7.png"></a>
+					<div class="video-info">
+						<a href="">미국이 놀라고 중국이 부러워하며 일본이 질투하는 한국의 그것!</a>
+						<p>Baboob</p>
+						<p>15만</p>
+					</div>
+				</div>
+				<div class="side-video-list">
+				<a href="" class="small-thumbnail"><img src="/miniProject_youtube/images/thumbnail8.png"></a>
+					<div class="video-info">
+						<a href="">미국이 놀라고 중국이 부러워하며 일본이 질투하는 한국의 그것!</a>
+						<p>Baboob</p>
+						<p>15만</p>
+					</div>
+				</div>
+				<div class="side-video-list">
+				<a href="" class="small-thumbnail"><img src="/miniProject_youtube/images/thumbnail1.png"></a>
+					<div class="video-info">
+						<a href="">미국이 놀라고 중국이 부러워하며 일본이 질투하는 한국의 그것!</a>
+						<p>Baboob</p>
+						<p>15만</p>
+					</div>
+				</div>
+			
 			</div>
 		</div>
 	</div>

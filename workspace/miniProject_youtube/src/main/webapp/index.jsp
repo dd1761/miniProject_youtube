@@ -8,7 +8,6 @@
 <link rel="stylesheet" href="/miniProject_youtube/css/indexstyle.css">
 </head>
 <body>
-
 	<nav class="flex-div">
 		<div class="nav-left flex-div">
 			<img alt="메뉴 "src="/miniProject_youtube/images/menu.png" class="menu-icon">
