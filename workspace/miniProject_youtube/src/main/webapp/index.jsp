@@ -27,8 +27,6 @@
 			<img src="/miniProject_youtube/images/dongbeen.jpg" class="user-icon">
 		</div>
 	</nav>
-	
-	
 	<!-- sidebar -->
 	<div class="sidebar">
 		<div class="shortcut-links">
