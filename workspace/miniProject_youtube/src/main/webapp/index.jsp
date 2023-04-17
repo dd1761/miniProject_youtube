@@ -21,6 +21,7 @@
 			<img src="/miniProject_youtube/images/voice-search.png" class="mic-icon">
 		</div>
 		<div class="nav-right flex-div">
+			
 			<img src="/miniProject_youtube/images/upload.png">
 			<img src="/miniProject_youtube/images/more.png">
 			<img src="/miniProject_youtube/images/notification.png">
